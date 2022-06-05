@@ -104,5 +104,6 @@ void setup() {
 }
 
 void loop() {
-  //nah bro i aint using this
+  //function not used
+  //need arduino to test this out
  }
